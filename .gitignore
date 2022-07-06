@@ -1,0 +1,8 @@
+.idea
+__pycache__
+.secret
+.**secret
+passwords.json
+venv
+fact_log*.txt
+answer.xlsx
